@@ -4,6 +4,6 @@
   "version": "1.0",
   "manifest_version": 3,
   "action": {
-    "default_icon": "queue_music6-512.jpg"
+    "default_icon": "./queue_music6-512.png"
   }
 }
